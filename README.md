@@ -1,7 +1,7 @@
 # Cyrille Oviedo
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img src="" alt="![cyimage](https://github.com/user-attachments/assets/01721ce9-d0d0-4c9b-90b3-888065223c68)"
+  <img src="" alt="myimagecy.jpeg"
 idth="150" />
 
   <div>
