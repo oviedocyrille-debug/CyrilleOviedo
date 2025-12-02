@@ -1,13 +1,11 @@
-# CyrilleOviedo
-# Luis Kenneth's Profile
+# Cyrille's Information
+<img src="cyrillepaula" alt="Profile Picture" width="200">
 
-<img src="mypicture.jpg" alt="Profile Picture" width="200">
-
-*Name:* Luis Kenneth D. Fajardo  
+*Name:* Cyrille Paula R. Oviedo 
 *Course:* Bachelor of Science in Information Technology  
 *School:* New Era University  
-*Contact Number:* 0916 432 6568  
-*Email:* luiskenneth.fajardo@neu.edu.ph  
+*Contact Number:* 09474266189  
+*Email:* cyrillepaula.oviedo@
 
 ---
 
