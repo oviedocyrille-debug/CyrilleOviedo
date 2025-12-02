@@ -1,48 +1,31 @@
 # Cyrille Oviedo
-<img src="" alt="myimage.jpeg
-" width="200">
+<div style="display: flex; align-items: center; gap: 20px;">
 
-*Name:* Cyrille Paula R. Oviedo 
-*Course:* Bachelor of Science in Information Technology  
-*School:* New Era University  
-*Contact Number:* 09474266189  
-*Email:* cyrillepaula.oviedo@
+  <img src="kengiss.jpg" alt="Profile Photo" width="150" />
+
+  <div>
+
+  - *Name:* Kengi Manondo  
+  - *Course:* Bachelor of Science in Information Technology  
+  - *School:* New Era University  
+  - *Contact Number:* 0931 950 1185  
+  - *Email:* kengi.manongdo@neu.edu.ph  
+
+  </div>
+
+</div>
 
 ---
 
 ## Certificates
 
-| Title                         | Links |
-|------------------------------|-------|
-| SQL and Relational Databases 101 | [LINK](https://example.com) |
+| *Title* | *Link* |
+|----------|----------|
+| SQL and Relational Databases 101 | [View Certificate](#) |
+
+## Connect With Me
+
+- *Facebook:*  
+- *Email:* kengi.manongdo@neu.edu.ph
 
 ---
-
-## About Me
-
-I am an Information Technology student passionate about learning software development, databases, and modern technologies. This repository serves as my profile and portfolio.
-
----
-
-## Skills
-
-- Programming (Java, Python, C++)
-- Web Development (HTML, CSS, JavaScript)
-- Database Management (MySQL, SQL Server)
-- Version Control (Git & GitHub)
-
----
-
-## Projects
-
-### 📌 Project 1 – Add your project title here
-Description of your project.
-
-### 📌 Project 2 – Add another project here
-Description of your project.
-
----
-
-## Contact
-
-Feel free to reach out via email for collaboration or questions.
