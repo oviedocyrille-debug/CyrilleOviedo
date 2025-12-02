@@ -1,4 +1,4 @@
-# Kengi Manondo's Profile
+# Cyrille Oviedo
 
 ---
 
@@ -8,11 +8,11 @@
 
   <div>
 
-  - *Name:* Kengi Manondo  
+  - *Name:* Cyrille Oviedo
   - *Course:* Bachelor of Science in Information Technology  
   - *School:* New Era University  
-  - *Contact Number:* 0931 950 1185  
-  - *Email:* kengi.manongdo@neu.edu.ph  
+  - *Contact Number:* 09474266189  
+  - *Email:* cyrillepaula.oviedo@neu.edu.ph
 
   </div>
 
@@ -37,6 +37,4 @@
 - JavaScript  
 
 ## Connect With Me
-
-- *Facebook:*  
-- *Email:* kengi.manongdo@neu.edu.ph
+- *Email:* cyrillepaula.oviedo@neu.edu.ph
