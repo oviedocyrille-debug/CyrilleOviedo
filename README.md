@@ -1,8 +1,10 @@
-# Cyrille Oviedo
+# Kengi Manondo's Profile
+
+---
+
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img src="" alt="myimagecy.jpeg"
-idth="150" />
+  <img src="cys.jpg" alt="Profile Photo" width="150" />
 
   <div>
 
@@ -24,9 +26,17 @@ idth="150" />
 |----------|----------|
 | SQL and Relational Databases 101 | [View Certificate](#) |
 
+---
+
+## Skills & Technologies
+
+### Programming Languages
+- C  
+- Python  
+- HTML / CSS  
+- JavaScript  
+
 ## Connect With Me
 
 - *Facebook:*  
 - *Email:* kengi.manongdo@neu.edu.ph
-
----
