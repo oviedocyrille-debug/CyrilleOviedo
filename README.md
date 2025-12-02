@@ -1,5 +1,5 @@
 # Cyrille's Information
-<img src="cyrillepaula" alt="Profile Picture" width="200">
+<img src="" alt="Profile Picture" width="200">
 
 *Name:* Cyrille Paula R. Oviedo 
 *Course:* Bachelor of Science in Information Technology  
